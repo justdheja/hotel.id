@@ -59,6 +59,12 @@ include "content_history.php";
                     <li class="active">
                         <a href="history.php"> <i class="menu-icon fa fa-history"></i>History </a>
                     </li>
+                    <li>
+                        <a href="calculator.php"> <i class="menu-icon fa fa-calculator"></i>Calculator </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/justdheja/hotel.id" target="_blank"> <i class="menu-icon fa fa-github"></i>GitHub</a>
+                    </li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </nav>
@@ -110,7 +116,7 @@ include "content_history.php";
                     <div class="col-md-12">
                         <div class="card">
                             <div class="card-header">
-                                <strong class="card-title">Data Table</strong>
+                                <strong class="card-title">History Pengunjung</strong>
                             </div>
                             <div class="card-body">
                                 <table id="bootstrap-data-table-export" class="table table-striped table-bordered">
