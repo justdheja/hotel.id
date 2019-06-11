@@ -59,6 +59,9 @@ include "avail.php";
                     <li>
                         <a href="history.php"> <i class="menu-icon fa fa-history"></i>History </a>
                     </li>
+                    <li>
+                        <a href="calculator.php"> <i class="menu-icon fa fa-calculator"></i>Calculator </a>
+                    </li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </nav>
@@ -137,7 +140,7 @@ include "avail.php";
                                             <label for="radio3" class="form-check-label ">
                                                 <input type="radio" id="radio3" name="kamar" value="Presidential Suite" class="form-check-input">Presidential Suite
                                             </label>
-                                        </div>
+                                            </div>
                                     </div>
                                 </div>
                             </div>
