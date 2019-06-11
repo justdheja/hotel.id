@@ -62,6 +62,9 @@ include "avail.php";
                     <li>
                         <a href="calculator.php"> <i class="menu-icon fa fa-calculator"></i>Calculator </a>
                     </li>
+                    <li>
+                        <a href="https://github.com/justdheja/hotel.id" target="_blank"> <i class="menu-icon fa fa-github"></i>GitHub</a>
+                    </li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </nav>
@@ -72,20 +75,6 @@ include "avail.php";
     <!-- Right Panel -->
 
     <div id="right-panel" class="right-panel">
-
-        <!-- Header-->
-        <header id="header" class="header">
-
-            <div class="header-menu">
-                <div class="user-area dropdown float-right">
-                    <a href="https://github.com/justdheja/hotel.id">
-                        <i class="fa fa-github"></i>
-                    </a>
-                </div>
-            </div>
-
-        </header><!-- /header -->
-        <!-- Header-->
 
         <div class="breadcrumbs">
             <div class="col-sm-4">
