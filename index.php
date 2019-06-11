@@ -78,9 +78,8 @@ include "avail.php";
 
             <div class="header-menu">
                 <div class="user-area dropdown float-right">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
-                        aria-expanded="false">
-                        <img class="user-avatar rounded-circle" src="images/admin.jpg" alt="User Avatar">
+                    <a href="https://github.com/justdheja/hotel.id">
+                        <i class="fa fa-github"></i>
                     </a>
                 </div>
             </div>
