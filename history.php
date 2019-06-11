@@ -121,7 +121,6 @@ include "content_history.php";
                                             <th>Check In Date</th>
                                             <th>Check Out Date</th>
                                             <th>Duration</th>
-                                            <th></th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -135,7 +134,6 @@ include "content_history.php";
                                                 <td><?= $guest['check_in'] ?></td>
                                                 <td><?= $guest['check_out'] ?></td>
                                                 <td><?= $guest['durasi'] ?> nigth(s)</td>
-                                                <td><a href="invoice.php?id=<?= $guest['id']?>"><input type="button" value="View Invoice" class="btn-dark"></a></td>
                                             </tr>
                                         <?php
                                     }
