@@ -16,9 +16,6 @@ $idNumber = $_POST['idnumber'];
 
 $stmt->execute();
 
-// echo $nama;
-// echo $check_in;
-//header("Location: history.php");
 ?>
 <!doctype html>
 <html lang="en">

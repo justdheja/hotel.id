@@ -13,6 +13,9 @@
     <div class="container">
         <div class="text-center">
             <h1>The Calculator</h1>
+            <a href="index.php">
+                <h6 class="index-link">Back To Dashboard</h6>
+            </a>
         </div>
     </div>
     <div class="calculator-grid">
