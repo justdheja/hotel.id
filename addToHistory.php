@@ -13,6 +13,7 @@ $check_out = $_POST['checkOutDate'];
 $durasi = $_POST['durasi'];
 $tipeId = $_POST['tipeId'];
 $idNumber = $_POST['idnumber'];
+$jumlahTamu = $_POST['jumlahTamu'];
 
 $stmt->execute();
 
@@ -43,13 +44,20 @@ $stmt->execute();
             <div class="col mt-4">
                 <h1>Invoice</h1>
                 <hr>
-                <a href="history.php">
-                    <h6>lihat daftar pesanan lainnya</h6>
-                </a>
                 <p>Welcome <?= $nama ?></p>
                 <p>Your ID Type is <?= $tipeId ?>, your ID number is <?= $idNumber ?></p>
                 <p>Your room type is <?php echo $kamar ?></p>
                 <p>You book this room for <?php echo $durasi ?> night(s) at <?php echo $check_in ?></p>
+                <p><?php 
+                    if ($jumlahTamu >= 4 && $jumlahTamu <=5) {
+                        echo "You need 1 Extra Bed";
+                    }
+                    else 
+                    {
+                        echo "You need more room(s)";
+                    }
+
+                ?></p>
                 <img src="images/<?php
                                     if ($kamar == "Superior") {
                                         echo "superior.jpg";
@@ -62,6 +70,9 @@ $stmt->execute();
                                     }
                                     ?>" alt="" width="800px">
                 <hr>
+                <a href="history.php">
+                    <h6>See the History</h6>
+                </a>
             </div>
         </div>
     </div>
