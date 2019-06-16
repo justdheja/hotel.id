@@ -1,5 +1,7 @@
 # hotel.id
 
+![alt text](https://github.com/justdheja/hotel.id/blob/master/images/favicon.png)
+
 aplikasi web ini merupakan Tugas Proyek Akhir Mata Kuliah Pemrograman Berorientasi Objek.
 
 Bahasa yang digunakan
