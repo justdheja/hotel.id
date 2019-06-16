@@ -6,6 +6,6 @@ kami juga menambahkan aplikasi Calculator karena di frontoffice tidak lepas deng
 
 Bahasa yang digunakan
 
-*[JavaScript](http://vanilla-js.com/)
-*[PHP 7](https://www.php.net/)
+* [JavaScript](http://vanilla-js.com/)
+* [PHP 7](https://www.php.net/)
 
