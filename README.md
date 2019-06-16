@@ -20,4 +20,4 @@ Dalam menyusun dan mengembangkan aplikasi ini kami menemui beberapa kendala, mak
 
 kami juga menambahkan aplikasi Calculator karena di frontoffice tidak lepas dengan kalkulator :smile:
 
-semoga
+semoga dengan aplikasi yang sudah kami buat ini kami dapat mendapatkan nilai yang maksimal :pray:
