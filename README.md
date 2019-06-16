@@ -1,6 +1,6 @@
-# hotel.id
+[![alt text](./images/banner.JPG)](http://frontoffice.rf.gd)
 
-[![alt text](./images/favicon.png)](http://frontoffice.rf.gd)
+# hotel.id
 
 aplikasi web ini merupakan Tugas Proyek Akhir Mata Kuliah Pemrograman Berorientasi Objek.
 
