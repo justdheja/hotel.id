@@ -135,11 +135,11 @@ include "avail.php";
                             </div>
                             <div class="row form-group">
                                 <div class="col col-md-3"><label for="text-input" class=" form-control-label">Check In Date</label></div>
-                                <div class="col-12 col-md-9"><input type="datetime-local" name="checkInDate" class="form-control"></div>
+                                <div class="col-12 col-md-9"><input type="date" name="checkInDate" class="form-control"></div>
                             </div>
                             <div class="row form-group">
                                 <div class="col col-md-3"><label for="text-input" class=" form-control-label">Check Out Date</label></div>
-                                <div class="col-12 col-md-9"><input type="datetime-local" name="checkOutDate" class="form-control"></div>
+                                <div class="col-12 col-md-9"><input type="date" name="checkOutDate" class="form-control"></div>
                             </div>
                             <div class="row form-group">
                                 <div class="col col-md-3"><label for="text-input" class=" form-control-label">Jumlah Tamu</label></div>
