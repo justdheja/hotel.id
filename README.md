@@ -14,8 +14,10 @@ Dalam menyusun dan mengembangkan aplikasi ini kami menemui beberapa kendala, mak
 - [x] Membuat auto generate invoice
 - [x] Menyimpan History ke dalam database.
 - [x] Mempermudah detail pesanan.
-- [ ] Membuat live update dari availability.
+- [ ] Membuat live update dari *availability*.
 
 ## Note
 
 kami juga menambahkan aplikasi Calculator karena di frontoffice tidak lepas dengan kalkulator :smile:
+
+semoga
